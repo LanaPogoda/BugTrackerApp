@@ -1,0 +1,14 @@
+{
+  "name": "bug-tracker-backend-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple backend for the Bug Tracker Android assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test server.test.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
